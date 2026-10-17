@@ -17,4 +17,3 @@ Program ini adalah sistem pemantauan lalu lintas yang menganalisis rekaman video
 - DeepSORT (deep_sort_realtime): Untuk pelacakan multi-objek.
 - NumPy: Untuk operasi numerik.
 
-![preview](traffic_video.mp4)
