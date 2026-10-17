@@ -16,3 +16,5 @@ Program ini adalah sistem pemantauan lalu lintas yang menganalisis rekaman video
 - Ultralytics YOLO (ultralytics): Untuk deteksi objek.
 - DeepSORT (deep_sort_realtime): Untuk pelacakan multi-objek.
 - NumPy: Untuk operasi numerik.
+
+![preview](traffic_video.mp4)
